@@ -1,0 +1,8 @@
+requests == 2.23.0
+yolo
+ultralytics
+streamlit
+opencv-python
+easyocr
+numpy
+pandas
